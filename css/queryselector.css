@@ -1,0 +1,14 @@
+html{
+  background-color: #8a4208;
+}
+#clickme{
+	border: solid white 1px;
+	background-color: grey; 
+	width: 200px;
+	height: 50px;
+	font-size: 25px;
+	margin: 25% 40%; 
+}
+	
+
+
