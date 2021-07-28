@@ -4,4 +4,5 @@ Contained are 2 folders and html files in root
 -CSS file folder
 -SRC folder for Media to be displayed.
 
-Github Pages Url : http://justin98m.github.io/
+Github Pages Url : https://justin98m.github.io/Frontend_Practice/index.html
+
