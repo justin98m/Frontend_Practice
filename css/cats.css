@@ -1,0 +1,23 @@
+div{
+	border: solid blue 2px;
+  
+}
+#slide1{
+	margin-right: 55%;
+	position: absolute;
+	
+}
+#slide2{
+	margin-right: 50%;
+	position: absolute;
+	left: 600px;
+}
+#slide3{
+	position: absolute;
+	left: 1200px;
+	margin-right: 50%; 
+}
+p{
+	font-size: 20px;
+	color:red;
+}
